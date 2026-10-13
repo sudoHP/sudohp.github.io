@@ -64,5 +64,5 @@ All sudoHP applications are engineered with strict privacy-by-design standards. 
 ## 📬 Contact & Inquiries
 
 * **Developer Portal**: [https://sudohp.github.io/](https://sudohp.github.io/)
-* **Support Email**: [support@mathkangarooprep.org](mailto:support@mathkangarooprep.org) *(Configurable to studio email)*
+* **Support Email**: [sudohp.dev@gmail.com](mailto:sudohp.dev@gmail.com)
 * **Issue Tracker**: [GitHub Issues](https://github.com/sudoHP/sudohp.github.io/issues)
