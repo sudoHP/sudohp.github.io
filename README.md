@@ -1,13 +1,26 @@
-# Kangaroo Math Prep - Public Web Portal
+# sudoHP Software Studio - Public Web Portal
 
-This repository hosts the official, public-facing website, legal policies, and customer support pages for **Kangaroo Math Prep** (Unofficial Contest Practice for iOS & iPadOS).
+This repository is the central public web portal for all iOS & iPadOS apps developed by **sudoHP**, hosted directly at **[https://sudohp.github.io/](https://sudohp.github.io/)**.
 
-## Live Pages (GitHub Pages)
-- **Home & Overview**: [https://sudohp.github.io/kangaroo-math-web/](https://sudohp.github.io/kangaroo-math-web/)
-- **Privacy Policy (COPPA Compliant)**: [https://sudohp.github.io/kangaroo-math-web/privacy.html](https://sudohp.github.io/kangaroo-math-web/privacy.html)
-- **Terms of Service & Disclaimers**: [https://sudohp.github.io/kangaroo-math-web/terms.html](https://sudohp.github.io/kangaroo-math-web/terms.html)
-- **Support & FAQ**: [https://sudohp.github.io/kangaroo-math-web/support.html](https://sudohp.github.io/kangaroo-math-web/support.html)
+---
 
-## Support Contact
-For inquiries, feedback, or question reports:
+## 🦘 Kangaroo Math Prep
+- **Home & Overview**: [https://sudohp.github.io/kangaroo/](https://sudohp.github.io/kangaroo/)
+- **Privacy Policy (COPPA Compliant)**: [https://sudohp.github.io/kangaroo/privacy](https://sudohp.github.io/kangaroo/privacy)
+- **Terms of Service**: [https://sudohp.github.io/kangaroo/terms](https://sudohp.github.io/kangaroo/terms)
+- **Customer Support & FAQ**: [https://sudohp.github.io/kangaroo/support](https://sudohp.github.io/kangaroo/support)
+
+### Short & Cryptic Route Aliases
+- Privacy: `https://sudohp.github.io/privacy` or `https://sudohp.github.io/p`
+- Terms: `https://sudohp.github.io/terms` or `https://sudohp.github.io/t`
+- Support: `https://sudohp.github.io/support` or `https://sudohp.github.io/s`
+
+---
+
+## 🚀 Future Applications
+When new apps are released, they are added in dedicated subdirectories (e.g. `/app-name/`) without creating additional repositories.
+
+---
+
+## Contact & Support
 - Email: [support@mathkangarooprep.org](mailto:support@mathkangarooprep.org)
