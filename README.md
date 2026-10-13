@@ -54,7 +54,7 @@ When launching a new app:
 
 ## 🔒 Privacy & Compliance Commitments
 
-All sudoHP educational applications are built with strict adherence to:
+All sudoHP applications are engineered with strict privacy-by-design standards. For family and student applications, we adhere strictly to:
 * **COPPA (Children's Online Privacy Protection Act)**: Zero PII collected, zero user accounts, zero device tracking.
 * **Apple Kids Category Guidelines (1.3 & 5.1.4)**: Zero third-party advertising SDKs, zero behavioral trackers, and interactive parental verification gates protecting external links and data resets.
 * **Nominative Fair Use**: Independent educational practice with explicit trademark disclaimers.
