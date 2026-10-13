@@ -10,17 +10,12 @@ This repository is the central public web portal for all iOS & iPadOS apps devel
 - **Terms of Service**: [https://sudohp.github.io/kangaroo/terms](https://sudohp.github.io/kangaroo/terms)
 - **Customer Support & FAQ**: [https://sudohp.github.io/kangaroo/support](https://sudohp.github.io/kangaroo/support)
 
-### Short & Cryptic Route Aliases
-- Privacy: `https://sudohp.github.io/privacy` or `https://sudohp.github.io/p`
-- Terms: `https://sudohp.github.io/terms` or `https://sudohp.github.io/t`
-- Support: `https://sudohp.github.io/support` or `https://sudohp.github.io/s`
+---
+
+## 🚀 Adding Future Applications
+When new apps are released, add a new folder (e.g. `/app-two/`) containing its landing, privacy, and support pages.
 
 ---
 
-## 🚀 Future Applications
-When new apps are released, they are added in dedicated subdirectories (e.g. `/app-name/`) without creating additional repositories.
-
----
-
-## Contact & Support
+## Contact & Inquiries
 - Email: [support@mathkangarooprep.org](mailto:support@mathkangarooprep.org)
