@@ -15,7 +15,6 @@ An independent, kid-friendly competition preparation tool featuring 1,000 algori
 * **Privacy Policy (COPPA & Kids Category Compliant)**: [https://sudohp.github.io/kangaroo/privacy](https://sudohp.github.io/kangaroo/privacy)
 * **Terms of Service & Nominative Fair Use Disclaimers**: [https://sudohp.github.io/kangaroo/terms](https://sudohp.github.io/kangaroo/terms)
 * **Customer Support & FAQ**: [https://sudohp.github.io/kangaroo/support](https://sudohp.github.io/kangaroo/support)
-* **App Codebase Repository**: [https://github.com/sudoHP/kangaroo-math-app](https://github.com/sudoHP/kangaroo-math-app)
 
 ---
 
@@ -65,4 +64,3 @@ All sudoHP applications are engineered with strict privacy-by-design standards. 
 
 * **Developer Portal**: [https://sudohp.github.io/](https://sudohp.github.io/)
 * **Support Email**: [sudohp.dev@gmail.com](mailto:sudohp.dev@gmail.com)
-* **Issue Tracker**: [GitHub Issues](https://github.com/sudoHP/sudohp.github.io/issues)
